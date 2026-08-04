@@ -1,5 +1,7 @@
 # BankExport – LibreOffice SEPA-XML Export Makro
 
+**Keywords:** LibreOffice SEPA Export, SEPA-XML Makro, Hibiscus, Lastschrift, Überweisung, Calc Macro
+
 Einfaches LibreOffice-Calc-Makro zum Erstellen von SEPA-XML-Dateien aus Calc-Tabellen.  
 Die erzeugten Dateien können in Banking-Programme wie **Hibiscus** oder die **Raiffeisen-Web-Applikation** importiert werden.
 
