@@ -40,7 +40,7 @@ Ich hoffe, irgendjemand kann damit etwas anfangen.
 ### 1. Zum Ausprobieren
 
 Die Datei `BankExportMacro.ods` dient in erster Linie zum Ausprobieren  
-(siehe [Releases](https://github.com/Cruane19/BankExport/releases)).
+(siehe [Releases](https://github.com/Cruane19/BankExportMacro/releases)).
 
 Hier ist das Makro direkt enthalten. Es gibt Testdaten für Überweisungen und Lastschriften sowie Vorlagenbeispiele.
 
